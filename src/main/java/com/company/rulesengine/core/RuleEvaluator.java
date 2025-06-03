@@ -53,4 +53,3 @@ public class RuleEvaluator {
         return context;
     }
 }
-
